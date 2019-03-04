@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551726026137.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2703885428",
+    "id" : "E9C00344",
+    "lastKnownWriteTime" : 1551726033,
+    "last_content_update" : 1551726033193,
+    "path" : "~/Desktop/r course 2/ClassWebsite/_posts/welcome/welcome.Rmd",
+    "project_path" : "_posts/welcome/welcome.Rmd",
+    "properties" : {
+        "cursorPosition" : "6,16",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
